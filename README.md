@@ -8,7 +8,7 @@ This is my first HTML project — built using only HTML and hosted on GitHub.
 - Images for Mercury, Venus, Earth, etc.
 
 ## 🚀 Live Website
-👉 [Link will be added after enabling GitHub Pages]
+👉 https://soumya-modi.github.io/Solar-System/
 
 ## 🛠 Tools Used
 - HTML5
